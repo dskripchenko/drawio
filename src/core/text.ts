@@ -1,7 +1,7 @@
 /**
  * Text: how wide a string is, and how a label wraps into a box.
  *
- * A BPMN file fixes every box, but not how its text breaks: that depends on
+ * A diagram file fixes every box, but not how its text breaks: that depends on
  * the font the reader's browser picks. So measuring is a pluggable function: the browser measures
  * with a canvas, everything else (SSR, Node, tests) uses a table of average
  * glyph widths that is close enough for boxes to fit with their padding.
