@@ -1,6 +1,6 @@
 {
   "name": "@dskripchenko/drawio",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "draw.io (diagrams.net) files to SVG with zero runtime dependencies and no DOM — compressed and plain pages, shapes, connectors, containers and layers, with labels that can never become markup",
   "keywords": [
     "drawio",
